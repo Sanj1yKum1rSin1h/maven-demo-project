@@ -9,6 +9,7 @@ public class MavenDemoProjectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MavenDemoProjectApplication.class, args);
 		System.out.println("Jenkins integration...");
+		System.out.println("Test 1");
 	}
 
 }
