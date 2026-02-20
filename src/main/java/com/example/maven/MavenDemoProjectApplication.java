@@ -10,6 +10,7 @@ public class MavenDemoProjectApplication {
 		SpringApplication.run(MavenDemoProjectApplication.class, args);
 		System.out.println("Jenkins integration...");
 		System.out.println("Test 1");
+		System.out.println("test 2 running");
 	}
 
 }
