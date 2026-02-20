@@ -9,8 +9,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MavenDemoProjectApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MavenDemoProjectApplication.class, args);
 		log.info("Test 1 github repo integrated with jenkins");
+		SpringApplication.run(MavenDemoProjectApplication.class, args);
 	}
 
 }
